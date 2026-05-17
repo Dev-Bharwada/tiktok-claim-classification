@@ -31,7 +31,7 @@ The project compared Random Forest and XGBoost classifiers for binary content cl
 
 ## Model Evaluation
 ### Confusion Matrix
-![Confusion Matrix](images/Validation_Confusion_Matrix.png)
+![Confusion Matrix](images/Validation_Confusion_Matrix.jpg)
 ## Repository Structure
 - `notebook/` → Jupyter notebook implementation
 - `images/` → visualizations and model outputs
