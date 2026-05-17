@@ -36,8 +36,3 @@ The project compared Random Forest and XGBoost classifiers for binary content cl
 - `notebook/` → Jupyter notebook implementation
 - `images/` → visualizations and model outputs
 - `requirements.txt` → project dependencies
-
-## Future Improvements
-- Add NLP embeddings
-- Experiment with transformer-based architectures
-- Deploy as a lightweight API service
